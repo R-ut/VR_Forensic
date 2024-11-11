@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/Forensic/Maps/Table_Map.umap",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/Forensic/Blueprints/BP_EvidenceChecker.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/BeachProps/Meshes/SM_Bucket.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/BeachProps/Meshes/SM_SoccerBall.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/BeachProps/Meshes/SM_Shovel.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/BeachProps/Meshes/SM_Sign.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/package/static_mesh/SM_thrownknife.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/package/static_mesh/SM_knife1.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/package/static_mesh/SM_Mine.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/package/static_mesh/StaticMesh.uasset",
+				"C:/Users/Rutza/Desktop/Capstone/VRGame/Content/package/static_mesh/SM_Bullet.uasset"
+			]
+		}
+	]
+}
